@@ -1,11 +1,11 @@
 {	
 
 
-	"skills":{ "soft_skils":["discipline", "communication", "support"]
+	"skills":{ "soft_skils" : ["discipline", "communication", "support"]
 		 },
 
-	"hard_skills": {"Tools":["terminal", "github", "postman"," SQL", "etc"], 
-			"Theory":"a lot of"}
+	"hard_skills" : {"Tools" : ["terminal", "github", "postman"," SQL", "etc"], 
+			"Theory" : "a lot of"}
 
 }
 
