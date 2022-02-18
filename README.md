@@ -48,7 +48,7 @@ vim skills.json
 ```
 12. Сделать коммит в одну строку.
 ```
-git add prefernces.json skills.json && git commit -m "Какой-то коммит"
+git add preferences.json skills.json && git commit -m "Какой-то коммит"
 ```
 13. Отправить сразу 2 файла на внешний репозиторий.
 ```
